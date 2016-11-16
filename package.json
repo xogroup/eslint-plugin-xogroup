@@ -1,0 +1,30 @@
+{
+  "name": "eslint-plugin-xogroup",
+  "version": "0.0.0",
+  "description": "eslinting plugin ruleset for HapiJs environment",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "eslint-plugin-xogroup",
+    "xogroup"
+  ],
+  "author": "Lam Chan",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "eslint": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.0.0",
+    "mocha": "^2.4.5"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "ISC"
+}
