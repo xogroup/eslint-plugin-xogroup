@@ -46,8 +46,8 @@ Also extend existing configurations under the extends section.
 ```json
 {
     "extends": [
-        "xogroup/recommended",
-        "xogroup/hapijs"
+        "plugin:xogroup/recommended",
+        "plugin:xogroup/hapijs"
     ]
 }
 ```
