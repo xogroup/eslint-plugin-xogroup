@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-xogroup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eslinting plugin ruleset for HapiJs environment",
   "main": "lib/index.js",
   "scripts": {
