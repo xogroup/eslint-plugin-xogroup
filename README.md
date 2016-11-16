@@ -2,6 +2,12 @@
 
 eslinting plugin ruleset and configuration defaults for the XO Group JS environment
 
+[![npm version](https://badge.fury.io/js/eslint-plugin-xogroup.svg)](https://badge.fury.io/js/eslint-plugin-xogroup)
+[![Build Status](https://travis-ci.org/xogroup/eslint-plugin-xogroup.svg?branch=master)](https://travis-ci.org/xogroup/eslint-plugin-xogroup)
+
+[![Known Vulnerabilities](https://snyk.io/test/github/xogroup/eslint-plugin-xogroup/badge.svg)](https://snyk.io/test/github/xogroup/eslint-plugin-xogroup)
+[![NSP Status](https://nodesecurity.io/orgs/xo-group/projects/aff9e10c-8c2c-432d-a24b-5ec677a51342/badge)](https://nodesecurity.io/orgs/xo-group/projects/aff9e10c-8c2c-432d-a24b-5ec677a51342)
+
 ## Installation
 
 You'll first need to install [ESLint](http://eslint.org):
