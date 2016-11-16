@@ -1,6 +1,6 @@
 # eslint-plugin-xogroup
 
-eslinting plugin ruleset for HapiJs environment
+eslinting plugin ruleset and configuration defaults for the XO Group JS environment
 
 ## Installation
 
