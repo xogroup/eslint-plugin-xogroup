@@ -12,7 +12,7 @@
   "author": "Lam Chan",
   "main": "lib/index.js",
   "scripts": {
-    "test": "mocha tests --recursive"
+    "test": "node_modules/.bin/_mocha tests --recursive"
   },
   "dependencies": {
   },
