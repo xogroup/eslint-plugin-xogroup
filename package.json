@@ -2,6 +2,11 @@
   "name": "eslint-plugin-xogroup",
   "version": "1.0.0",
   "description": "eslinting plugin ruleset for HapiJs environment",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node_modules/.bin/_mocha tests --recursive"
+  },
+  "repository": "git://github.com/xogroup/eslint-plugin-xogroup",
   "keywords": [
     "eslint",
     "eslintplugin",
@@ -9,11 +14,12 @@
     "eslint-plugin-xogroup",
     "xogroup"
   ],
-  "author": "Lam Chan",
-  "main": "lib/index.js",
-  "scripts": {
-    "test": "node_modules/.bin/_mocha tests --recursive"
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/xogroup/eslint-plugin-xogroup/issues"
   },
+  "homepage": "https://github.com/xogroup/eslint-plugin-xogroup#readme",
+  "author": "Lam Chan",
   "dependencies": {},
   "peerDependencies": {
     "eslint": "^3.0.0"
@@ -24,6 +30,5 @@
   },
   "engines": {
     "node": ">=0.10.0"
-  },
-  "license": "ISC"
+  }
 }
