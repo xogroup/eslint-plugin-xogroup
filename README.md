@@ -53,7 +53,8 @@ Also extend existing configurations under the extends section.
 {
     "extends": [
         "plugin:xogroup/recommended",
-        "plugin:xogroup/hapijs"
+        "plugin:xogroup/hapijs",
+        "plugin:xogroup/angular",
     ]
 }
 ```
@@ -65,6 +66,7 @@ __No Custom Rules__
 ## Suported Configurations
 
 - hapijs
+- angular
 
 
 
