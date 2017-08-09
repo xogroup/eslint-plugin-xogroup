@@ -22,11 +22,11 @@
   "author": "Lam Chan",
   "dependencies": {},
   "peerDependencies": {
-    "eslint": "^3.0.0"
+    "eslint": "4.x.x"
   },
   "devDependencies": {
-    "eslint": "^3.0.0",
-    "mocha": "^2.4.5"
+    "eslint": "4.x.x",
+    "mocha": "2.x.x"
   },
   "engines": {
     "node": ">=0.10.0"
