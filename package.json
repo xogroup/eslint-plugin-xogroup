@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-xogroup",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "eslinting plugin ruleset and configuration defaults for the XO Group JS environment",
   "main": "lib/index.js",
   "scripts": {
